@@ -1,8 +1,6 @@
-Of course, here is the README for your game project, written in English.
-
------
-
 # Road Race C++
+
+![Banner](image/Programming_Final_Project.jpg)
 
 **Road Race** is a simple terminal-based car racing game developed in C++. This project was created to implement fundamental programming concepts in a fun and interactive way. The objective is to steer a car, avoid oncoming traffic, and achieve the highest possible score.
 
