@@ -30,5 +30,5 @@ In this game, the player controls a car represented by `ASCII` characters. The o
  Run .exe file to start playing.
 
   ```sh
-  ./RoadRace.exe
+  RoadRace.exe
   ```
